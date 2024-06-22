@@ -1,6 +1,6 @@
 # Forge RP Chat Plugin
 
-![Forge RP Chat Plugin](https://example.com/logo.png)
+![Forge RP Chat Plugin](https://i.imgur.com/x3zejvJ.png)
 
 ## Overview
 
@@ -99,7 +99,7 @@ For support, join our [Discord](https://discord.gg/HB9G962FRY).
 
 # Forge RP Chat Plugin
 
-![Forge RP Chat Plugin](https://example.com/logo.png)
+![Forge RP Chat Plugin](https://i.imgur.com/x3zejvJ.png)
 
 ## Обзор
 
