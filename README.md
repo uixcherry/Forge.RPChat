@@ -1,7 +1,5 @@
 # Forge RP Chat Plugin
 
-![Forge RP Chat Plugin](https://i.imgur.com/x3zejvJ.png)
-
 ## Overview
 
 Forge RP Chat Plugin is a plugin designed for Unturned to enhance the role-playing experience by providing various chat commands. This plugin allows players to interact with each other through different types of chat messages, each with its unique purpose and functionality.
