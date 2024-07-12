@@ -99,8 +99,6 @@ For support, join our [Discord](https://discord.gg/HB9G962FRY).
 
 # Forge RP Chat Plugin
 
-![Forge RP Chat Plugin](https://i.imgur.com/x3zejvJ.png)
-
 ## Обзор
 
 Forge RP Chat Plugin — это плагин для Unturned, предназначенный для улучшения ролевого опыта, предоставляя различные чат-команды. Этот плагин позволяет игрокам взаимодействовать друг с другом через различные типы сообщений чата, каждое из которых имеет свою уникальную цель и функциональность.
