@@ -1,5 +1,6 @@
 ﻿using Rocket.API;
 using Rocket.API.Collections;
+using Rocket.Core;
 using Rocket.Core.Plugins;
 using Rocket.Unturned.Chat;
 using Rocket.Unturned.Events;
@@ -49,7 +50,7 @@ namespace Forge.RPChat
 
         private void OnPlayerChatted(UnturnedPlayer player, ref Color color, string message, EChatMode chatMode, ref bool cancel)
         {
-            if (!IsChatEnabled(chatMode, player))
+            if (!R.Commands.Execute(player, message) && !IsChatEnabled(chatMode, player))
             {
                 cancel = true;
                 UnturnedChat.Say(player, Translate("chat_disabled", chatMode.ToString()), Color.red);
